@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BerkshireRoyals.Website.Cli
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BerkshireRoyals.Website.Shared", "Shared\BerkshireRoyals.Website.Shared.csproj", "{34143B1D-48F8-467F-8843-054FE7BBD29F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerkshireRoyals.Website.Test", "BerkshireRoyals.Website.Test\BerkshireRoyals.Website.Test.csproj", "{07283067-9451-423C-961C-CF5A0FAE31AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerkshireRoyals.Website.Test", "Test\BerkshireRoyals.Website.Test.csproj", "{07283067-9451-423C-961C-CF5A0FAE31AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
